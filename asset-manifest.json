@@ -1,20 +1,27 @@
 {
   "files": {
     "main.css": "/Pokemon-Memory-Game/static/css/main.f9f990a5.chunk.css",
-    "main.js": "/Pokemon-Memory-Game/static/js/main.8f3e1c92.chunk.js",
-    "main.js.map": "/Pokemon-Memory-Game/static/js/main.8f3e1c92.chunk.js.map",
+    "main.js": "/Pokemon-Memory-Game/static/js/main.82871d86.chunk.js",
+    "main.js.map": "/Pokemon-Memory-Game/static/js/main.82871d86.chunk.js.map",
     "runtime-main.js": "/Pokemon-Memory-Game/static/js/runtime-main.ddb1ba8f.js",
     "runtime-main.js.map": "/Pokemon-Memory-Game/static/js/runtime-main.ddb1ba8f.js.map",
     "static/js/2.83d8546b.chunk.js": "/Pokemon-Memory-Game/static/js/2.83d8546b.chunk.js",
     "static/js/2.83d8546b.chunk.js.map": "/Pokemon-Memory-Game/static/js/2.83d8546b.chunk.js.map",
     "index.html": "/Pokemon-Memory-Game/index.html",
     "static/css/main.f9f990a5.chunk.css.map": "/Pokemon-Memory-Game/static/css/main.f9f990a5.chunk.css.map",
-    "static/js/2.83d8546b.chunk.js.LICENSE.txt": "/Pokemon-Memory-Game/static/js/2.83d8546b.chunk.js.LICENSE.txt"
+    "static/js/2.83d8546b.chunk.js.LICENSE.txt": "/Pokemon-Memory-Game/static/js/2.83d8546b.chunk.js.LICENSE.txt",
+    "static/media/Bulbasur.3d843f47.gif": "/Pokemon-Memory-Game/static/media/Bulbasur.3d843f47.gif",
+    "static/media/Caterpie.7bf0a608.gif": "/Pokemon-Memory-Game/static/media/Caterpie.7bf0a608.gif",
+    "static/media/Charmander.bb033f90.gif": "/Pokemon-Memory-Game/static/media/Charmander.bb033f90.gif",
+    "static/media/Pikachu.ef41c098.gif": "/Pokemon-Memory-Game/static/media/Pikachu.ef41c098.gif",
+    "static/media/Squirtle.863bf1e4.gif": "/Pokemon-Memory-Game/static/media/Squirtle.863bf1e4.gif",
+    "static/media/Title.b75aae07.png": "/Pokemon-Memory-Game/static/media/Title.b75aae07.png",
+    "static/media/cover.38619b32.png": "/Pokemon-Memory-Game/static/media/cover.38619b32.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ddb1ba8f.js",
     "static/js/2.83d8546b.chunk.js",
     "static/css/main.f9f990a5.chunk.css",
-    "static/js/main.8f3e1c92.chunk.js"
+    "static/js/main.82871d86.chunk.js"
   ]
 }
