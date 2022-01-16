@@ -2,16 +2,36 @@ import React, { useState, useEffect } from "react";
 import SingleCard from "./components/SingleCard";
 import "./App.css";
 import Popup from "./components/Popup";
+import Title from "./components/img/Title.png";
+import { pokemons } from "./pokemon-data/Pokemon-src";
 
 const cardImages = [
-  { src: "/img/Caterpie.gif", matched: false },
-  { src: "/img/Charmander.gif", matched: false },
-  { src: "/img/Squirtle.gif", matched: false },
-  { src: "/img/Pikachu.gif", matched: false },
-  { src: "/img/Psyduck.gif", matched: false },
-  { src: "/img/Bulbasur.gif", matched: false },
+  {
+    src: `${pokemons[0]}`,
+    matched: false,
+  },
+  {
+    src: `${pokemons[1]}`,
+    matched: false,
+  },
+  {
+    src: `${pokemons[2]}`,
+    matched: false,
+  },
+  {
+    src: `${pokemons[3]}`,
+    matched: false,
+  },
+  {
+    src: `${pokemons[4]}`,
+    matched: false,
+  },
+  {
+    src: `${pokemons[5]}`,
+    matched: false,
+  },
 ];
-
+console.log(pokemons[0]);
 function App() {
   const [cards, setCards] = useState([]);
   const [turns, setTurns] = useState(0);
@@ -91,7 +111,7 @@ function App() {
 
   return (
     <div className="app">
-      <img className="title" src="/img/Title.png" alt="Title" />
+      <img className="title" src={Title} alt="Title" />
       {/* <h1>Who's that Pokemon?!</h1> */}
       <div>
         <button onClick={shuffleCards}>New Game</button>
